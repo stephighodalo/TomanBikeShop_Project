@@ -16,11 +16,10 @@ The project followed an end-to-end data analytics workflow, from database develo
 <h2>Tools Used</h2>
 
 <ul>
-<li>SQL</li>
-<li>Power BI</li>
-<li>Database Management</li>
-<li>Data Analysis &amp; Visualisation</li>
-<li>Business Intelligence</li>
+<li><strong>Microsoft SQL Server</strong> — Database creation and data storage</li>
+<li><strong>SQL Server Management Studio (SSMS)</strong> — Database management and SQL querying</li>
+<li><strong>SQL</strong> — Data extraction, transformation, and analysis</li>
+<li><strong>Microsoft Power BI</strong> — Data modelling, dashboard development, and visualisation</li>
 </ul>
 
 <h2>Key Tasks</h2>
@@ -72,7 +71,7 @@ Analysed rider characteristics and customer types to understand the composition 
 The analysis provided insights into revenue performance, profitability, seasonal demand, and rider behaviour. These findings were used to identify opportunities for improving revenue generation and developing a more informed pricing strategy.
 </p>
 
-<h2>Recommendation</h2>
+<h2>Recommendations</h2>
 
 <h3>Conservative Price Increase</h3>
 
